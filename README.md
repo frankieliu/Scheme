@@ -18,7 +18,7 @@ Use
 
 # Github
 ## Password
-
+Saves the password in a text file, ~/.git-credentials
 ```bash
 git config --global credential.helper store
 ```
