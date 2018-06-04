@@ -24,6 +24,7 @@ git config --global credential.helper store
 ```
 
 This will store your password
+https://KiplingLiu:<the password>7@github.com
 
 # Emacs
 ## markdown mode
