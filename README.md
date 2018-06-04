@@ -1,10 +1,20 @@
 # Scheme
 
+## installing racket or maybe stick with chicken
+
+sudo add-apt-repository ppa:plt/racket
+sudo apt update
+sudo apt install racket
+
 ## Using the repl
 
 ```bash
 rlwrap csi
 ```
+
+# Repo
+
+git clone https://github.com/frankieliu/Scheme
 
 # Chapter 1
 ## factorial
