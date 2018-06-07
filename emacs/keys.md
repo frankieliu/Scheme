@@ -16,7 +16,7 @@ C-g: cancel
 
 Chicken commands:
 1. load your file C-x C-f
-2. run it with C-c C-l
+2. run it with C-c C-b, run Geiser with M-x run-geiser
 3. check results with C-c C-z
 
 
